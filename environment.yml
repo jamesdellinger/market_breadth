@@ -1,0 +1,56 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=haf1e3a3_3
+  - c-ares=1.16.1=haf1e3a3_3
+  - ca-certificates=2020.6.20=hecda079_0
+  - certifi=2020.6.20=py38h32f6830_0
+  - cffi=1.14.0=py38hc512035_1
+  - chardet=3.0.4=py38_1003
+  - conda=4.8.5=py38h32f6830_1
+  - conda-package-handling=1.6.1=py38h1de35cc_0
+  - cryptography=2.9.2=py38ha12b0ac_0
+  - icu=67.1=hb1e8313_0
+  - idna=2.9=py_1
+  - krb5=1.17.1=hddcf347_0
+  - libarchive=3.3.3=hf12134e_1008
+  - libcurl=7.71.1=h9bf37e3_8
+  - libcxx=10.0.1=h5f48129_0
+  - libedit=3.1.20181209=hb402a30_0
+  - libev=4.33=haf1e3a3_1
+  - libffi=3.3=h0a44026_1
+  - libiconv=1.16=haf1e3a3_0
+  - libnghttp2=1.41.0=h7580e61_2
+  - libsolv=0.7.15=hab81aa3_0
+  - libssh2=1.9.0=h8a08a2b_5
+  - libxml2=2.9.10=h2c6e4a5_2
+  - lz4-c=1.9.2=hb1e8313_3
+  - lzo=2.10=haf1e3a3_1000
+  - mamba=0.5.3=py38hcc219c9_0
+  - ncurses=6.2=h0a44026_1
+  - openssl=1.1.1h=haf1e3a3_0
+  - pip=20.0.2=py38_3
+  - pycosat=0.6.3=py38h1de35cc_1
+  - pycparser=2.20=py_0
+  - pyopenssl=19.1.0=py38_0
+  - pysocks=1.7.1=py38_0
+  - python=3.8.3=h26836e1_1
+  - python.app=2=py38_10
+  - python_abi=3.8=1_cp38
+  - readline=8.0=h1de35cc_0
+  - requests=2.23.0=py38_0
+  - ruamel_yaml=0.15.87=py38h1de35cc_0
+  - setuptools=46.4.0=py38_0
+  - six=1.14.0=py38_0
+  - sqlite=3.31.1=h5c1f38d_1
+  - tk=8.6.8=ha441bb4_0
+  - tqdm=4.46.0=py_0
+  - urllib3=1.25.8=py38_0
+  - wheel=0.34.2=py38_0
+  - xz=5.2.5=h1de35cc_0
+  - yaml=0.1.7=hc338f04_2
+  - zlib=1.2.11=h1de35cc_3
+  - zstd=1.4.5=h289c70a_2
+prefix: /Users/james/miniconda3
